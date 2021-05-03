@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
+Read the [README](../../README.md)
+
 h2. Where?
 Example:
 * Customer: Stunning bikes
