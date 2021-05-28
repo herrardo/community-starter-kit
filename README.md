@@ -1,6 +1,6 @@
 # welcome bot: A Probot App
 
-A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository.
+A GitHub App built with [probot](https://github.com/probot/probot) that celebrates new user activity within your repository. Welcome!
 
 ## What it does
 
